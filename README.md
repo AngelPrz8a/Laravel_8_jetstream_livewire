@@ -22,7 +22,7 @@ An representation of views could have an e-learning how Platzi
 7. Run `php artisan db:seed` to fill the database with test data.
   
 ## Screenshots
-![Untitled](public\images)
+![Untitled](https://github.com/AngelPrz008a/Laravel_8_jetstream_livewire/blob/main/public/images/screenshot.png)
 
 ## Links
 
